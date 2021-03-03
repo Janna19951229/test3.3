@@ -14,7 +14,9 @@
         <el-button @click="login()">提交</el-button>
       </el-form-item>
     </el-form>
+    <div>这是我的第二次提交</div>
   </div>
+
 </template>
 
 <script>
